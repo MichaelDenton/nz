@@ -1,10 +1,12 @@
 {
-  "_class": "page",
+  "_class": "bitmap",
   "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "3ba92660-f3ed-11e8-ae69-3ddaa98e6e8a",
+  "do_objectID": "8354A342-EC24-455F-BFDB-4E46E8DD3296",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D9C6344D-60F8-4E10-A8DB-D456EF9443ED",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -12,52 +14,41 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "do_objectID": "3A875EF1-D018-4B82-8F94-0DA6F0CB64C1",
+    "height": 414,
+    "width": 527,
+    "x": 507,
     "y": 0
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/93a742f64edecb31ee626cb95a9a3ad5020e10e6.png",
+    "_ref_class": "MSImageData"
   },
-  "includeInCloudUpload": true,
+  "intendedDPI": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "B4B54368-84F1-47AA-BF69-700529E95E45"
-    }
-  ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "pic_001",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "BCE6B647-C65F-4632-8FF6-C142F46E42C3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }
